@@ -1,0 +1,2 @@
+kernel/drivers/misc/mediatek/trusted_mem/trusted_mem.ko
+kernel/drivers/misc/mediatek/trusted_mem/secmem.ko

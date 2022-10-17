@@ -1,0 +1,15 @@
+kernel/drivers/misc/mediatek/pmic/mt6353/pmic.ko
+kernel/drivers/misc/mediatek/pmic/mt6353/pmic_irq.ko
+kernel/drivers/misc/mediatek/pmic/mt6353/upmu_common.ko
+kernel/drivers/misc/mediatek/pmic/mt6353/pmic_regulator.ko
+kernel/drivers/misc/mediatek/pmic/mt6353/pmic_api.ko
+kernel/drivers/misc/mediatek/pmic/mt6353/pmic_api_buck.ko
+kernel/drivers/misc/mediatek/pmic/mt6353/pmic_api_ldo.ko
+kernel/drivers/misc/mediatek/pmic/mt6353/regulator_codegen.ko
+kernel/drivers/misc/mediatek/pmic/mt6353/pmic_auxadc.ko
+kernel/drivers/misc/mediatek/pmic/mt6353/pmic_chr_type_det.ko
+kernel/drivers/misc/mediatek/pmic/mt6353/pmic_initial_setting.ko
+kernel/drivers/misc/mediatek/pmic/mt6353/pmic_efuse.ko
+kernel/drivers/misc/mediatek/pmic/mt6353/pmic_throttling_dlpt.ko
+kernel/drivers/misc/mediatek/pmic/mt6353/pmic_pinctl.ko
+kernel/drivers/misc/mediatek/pmic/mt6353/mt6311.ko

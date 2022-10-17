@@ -1,0 +1,2 @@
+kernel/drivers/mmc/host/mediatek/emmc_rpmb.ko
+kernel/drivers/mmc/host/mediatek/mt6755/msdc.ko

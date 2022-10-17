@@ -1,0 +1,2 @@
+kernel/drivers/misc/mediatek/power/mt6755/battery_meter_hal.ko
+kernel/drivers/misc/mediatek/power/mt6755/mtk_bif_intf.ko

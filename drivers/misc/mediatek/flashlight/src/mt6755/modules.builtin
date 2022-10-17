@@ -1,0 +1,2 @@
+kernel/drivers/misc/mediatek/flashlight/src/mt6755/flashlight_top.ko
+kernel/drivers/misc/mediatek/flashlight/src/mt6755/flashlight_device.ko
